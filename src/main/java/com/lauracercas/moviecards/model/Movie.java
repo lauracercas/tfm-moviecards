@@ -5,6 +5,11 @@ import javax.persistence.*;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 @Entity
 public class Movie {
     @Id

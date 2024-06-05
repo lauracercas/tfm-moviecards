@@ -19,6 +19,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.*;
 import static org.mockito.MockitoAnnotations.openMocks;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 class ActorControllerTest {
 
     private ActorController controller;

@@ -13,7 +13,13 @@
     <artifactId>moviecards</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>moviecards</name>
-    <description>Aplicacion Peliculas y Actores</description>
+    <description>Aplicacion Base para Integracion continua con GitHub Actions</description>
+    <developers>
+        <developer>
+            <id>lauracercas</id>
+            <name>Laura Cercas Ramos</name>
+        </developer>
+    </developers>
     <properties>
         <java.version>11</java.version>
     </properties>

@@ -2,6 +2,11 @@ package com.lauracercas.moviecards.model;
 
 import java.util.Objects;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 public class Card {
 
     private Integer idActor;

@@ -10,6 +10,11 @@ import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 @DataJpaTest
 public class MovieJPAIT {
 

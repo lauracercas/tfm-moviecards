@@ -7,6 +7,11 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 @Service
 public class MovieServiceImpl implements MovieService {
 

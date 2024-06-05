@@ -14,6 +14,11 @@ import static com.lauracercas.moviecards.util.Messages.NEW_ACTOR_TITLE;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 public class ActorE2ETest {
 
     private WebDriver driver;

@@ -9,6 +9,11 @@ import com.lauracercas.moviecards.service.movie.MovieService;
 import com.lauracercas.moviecards.util.Messages;
 import org.springframework.stereotype.Service;
 
+/**
+ * Autor: Laura Cercas Ramos
+ * Proyecto: TFM Integración Continua con GitHub Actions
+ * Fecha: 04/06/2024
+ */
 @Service
 public class CardServiceImpl implements CardService {
 
